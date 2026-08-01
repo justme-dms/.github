@@ -15,7 +15,8 @@ Editing `profile/README.md` changes what the world sees on the organization page
 so treat it as published copy rather than internal notes.
 
 **Nothing in this repository may contain client names, credentials, infrastructure
-identifiers, internal hostnames, or staff names.** It is public. The platform
+identifiers, or internal hostnames** — and no personal names beyond the review
+handles that `CODEOWNERS` structurally requires. It is public. The platform
 repositories are private commercial software and stay that way.
 
 ## License

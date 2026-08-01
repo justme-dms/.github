@@ -5,7 +5,6 @@
 # that needs different reviewers should override it with its own file.
 #
 # Note: CODEOWNERS assigns reviewers on pull requests. It is a routing rule, not
-# an access control — it does not restrict who can push. Enforcement requires a
-# branch ruleset, which the current plan only supports on public repositories.
+# an access control — it does not restrict who can push.
 
 * @sanabiot21 @caliecho

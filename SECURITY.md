@@ -1,8 +1,8 @@
 # Security Policy
 
 JustMe Digital Marketing Services builds and operates multi-tenant business
-platforms that hold operational and commercial data on behalf of our clients. We
-take reports about them seriously and we would rather hear from you.
+platforms that hold operational and commercial data on behalf of the businesses
+that run on them. We take reports seriously and we would rather hear from you.
 
 ## Reporting a vulnerability
 
@@ -35,8 +35,21 @@ say so in your email.
 
 ## Scope
 
-In scope: the software this organization builds, and the production services
-that run it.
+**In scope for unsolicited testing:** this organization's public website and the
+public content published in these repositories. Test those freely within the
+limits below.
+
+**Everything else requires written authorization first.** Our platforms are
+private systems holding commercial, payroll, and personnel data belonging to the
+businesses that run on them. We cannot consent on their behalf, and we are not
+willing to have live operations probed by surprise — our own rate limiting and
+account lockout would lock real staff out of their jobs while you worked.
+
+If you believe you have found something affecting a platform, **email us a
+description first and stop there.** We will come back to you with a test
+environment, credentials, and written authorization defining what you may touch.
+That is a real offer, not a brush-off — we would rather run a scoped engagement
+than have you guess where the line is.
 
 Out of scope, and please do not attempt them:
 
@@ -52,10 +65,15 @@ copy, and tell us immediately** in your report.
 
 ## Safe harbour
 
-If you make a good-faith effort to follow this policy, we will not pursue legal
-action against you for your research, and we will say so to anyone who asks. Act
-in good faith, stay within scope, avoid privacy violations and service
-disruption, and give us a reasonable window to remediate before disclosing.
+If you make a good-faith effort to follow this policy **and stay inside the scope
+above**, we will not pursue legal action against you for your research, and we
+will say so to anyone who asks. Act in good faith, avoid privacy violations and
+service disruption, and give us a reasonable window to remediate before
+disclosing.
+
+This protection does not extend to testing a platform without the written
+authorization described above. We cannot waive rights that belong to the
+businesses whose data those systems hold.
 
 We do not currently operate a paid bug bounty.
 
