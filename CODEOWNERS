@@ -1,0 +1,11 @@
+# Default code owners for the JustMe DMS organization.
+#
+# This file lives in the org-level `.github` repository, so it applies to any
+# repository in the org that does not define its own CODEOWNERS. A repository
+# that needs different reviewers should override it with its own file.
+#
+# Note: CODEOWNERS assigns reviewers on pull requests. It is a routing rule, not
+# an access control — it does not restrict who can push. Enforcement requires a
+# branch ruleset, which the current plan only supports on public repositories.
+
+* @sanabiot21 @caliecho
