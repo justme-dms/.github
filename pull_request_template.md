@@ -1,3 +1,5 @@
+**Summary:** <one sentence>
+
 **Session:** <!-- Link to the agent session that made this PR, or "None". -->
 
 ## Why
