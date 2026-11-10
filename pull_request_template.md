@@ -1,4 +1,4 @@
-**Summary:** <one sentence>
+**Summary:** <!-- One plain sentence: what this PR changes. -->
 
 **Session:** <!-- Link to the agent session that made this PR, or "None". -->
 
